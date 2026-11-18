@@ -41,7 +41,4 @@ Key Features
 - Railway zone and state analysis
 
 Project Files
-- `Train System.pbix` – Complete Power BI dashboard project.
-
-## 👨‍💻 Author
-**Shivam Das**
+`Train System.pbix` – Complete Power BI dashboard project.
